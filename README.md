@@ -1,2 +1,2 @@
-# vite-ts-bulletproof
-# vite-ts-bulletproof
+#run the development server:
+npm run dev
